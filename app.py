@@ -1,4 +1,3 @@
-
 import platform
 import datetime
 
@@ -14,4 +13,6 @@ print("Environment Check: PASSED")
 
 print("Application Status: HEALTHY")
 print("CI/CD Practice Project: RUNNING")
+
+
 
